@@ -1,0 +1,2 @@
+# MyStaticFFmpeg4Android
+StaticFFmpeg4Android
